@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemanth291002
 - 👀 I’m interested in MERN stack developer
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on small startups
 - 📫 How to reach me by linkedin koti Hemanth reddy
 
